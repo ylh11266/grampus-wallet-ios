@@ -1,3 +1,4 @@
 language: node_js
+- '11.2.0'
 script:
 - npm run start 
