@@ -5,6 +5,7 @@ import {
   StyleSheet,
   Image
 } from 'react-native';
+import { Button } from '@ant-design/react-native';
 import { AppBaseColor, AppFontSize } from '../../Config';
 export default class Mine extends Component {
 
@@ -47,6 +48,7 @@ export default class Mine extends Component {
             this.props.navigation.navigate('NativeMethod')
           }}
         >我的</Text>
+        <Button>default</Button>
       </View >
     );
   }
