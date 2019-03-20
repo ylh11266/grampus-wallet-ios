@@ -1,1 +1,3 @@
-language: javascript
+language: node
+script:
+- npm run start 
