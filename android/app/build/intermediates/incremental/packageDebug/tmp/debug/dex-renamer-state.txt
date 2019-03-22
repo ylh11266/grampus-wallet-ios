@@ -1,4 +1,4 @@
-#Mon Dec 03 09:53:34 CST 2018
-base.0=/Users/yuhu/Documents/WWW/grampus-wallet/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Fri Mar 22 10:38:04 CST 2019
+base.0=/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

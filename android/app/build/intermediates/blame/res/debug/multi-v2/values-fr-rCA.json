@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yuhu/Documents/WWW/grampus-wallet/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/Users/yuhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/792421fe667ef06e68b09734235611da/res/values-fr-rCA/values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yuhu/Documents/WWW/grampus-wallet/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/yuhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/303119f5e1d6c34906e7f213e815e016/res/values-v23/values-v23.xml",

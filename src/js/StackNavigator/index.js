@@ -10,23 +10,25 @@ import {
   createBottomTabNavigator
 } from 'react-navigation';
 import StackViewStyleInterpolator from 'react-navigation-stack/dist/views/StackView/StackViewStyleInterpolator';
-import Vote from '../Components/Vote';
-import Information from '../Components/Information';
+import Assets from '../Components/Assets';
+import Service from '../Components/Service';
 import Mine from '../Components/Mine';
-import NativeMethod from '../Components/Mine/NativeMethod'
+import NativeMethod from '../Components/Mine/NativeMethod';
+import Unlock from '../Components/Launch/Unlock';
+import GenerateWallet from '../Components/Launch/GenerateWallet';
+import Register from '../Components/Launch/Register';
 
 const Tab = createBottomTabNavigator({
   //每一个页面的配置
-  Vote: {
-    screen: Vote
+  Assets: {
+    screen: Assets
   },
-  Information: {
-    screen: Information
+  Service: {
+    screen: Service
   },
   Mine: {
     screen: Mine
-  },
-
+  }
 }, {
     //设置TabNavigator的位置
     tabBarPosition: 'bottom',
@@ -80,6 +82,15 @@ const Navi = createStackNavigator({
   },
   NativeMethod: {
     screen: NativeMethod
+  },
+  Unlock: {
+    screen: Unlock
+  },
+  GenerateWallet: {
+    screen: GenerateWallet
+  },
+  Register: {
+    screen: Register
   }
 },
   {

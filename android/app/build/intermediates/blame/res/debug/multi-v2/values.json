@@ -1,25 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yuhu/Documents/WWW/grampus-wallet/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/yuhu/Documents/WWW/grampus-wallet/node_modules/react-native-camera/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "source": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "19",
+                        "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "724",
-                        "endLines": "25",
-                        "endColumns": "12",
-                        "endOffsets": "1018"
+                        "startOffsets": "16",
+                        "endColumns": "39",
+                        "endOffsets": "51"
                     },
                     "to": {
-                        "startLines": "2179",
+                        "startLines": "605",
                         "startColumns": "4",
-                        "startOffsets": "157170",
-                        "endLines": "2185",
-                        "endColumns": "12",
-                        "endOffsets": "157464"
+                        "startOffsets": "48619",
+                        "endColumns": "39",
+                        "endOffsets": "48654"
                     }
                 },
                 {
@@ -59,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/yuhu/Documents/WWW/grampus-wallet/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -75,23 +73,6 @@
                         "endLines": "665",
                         "endColumns": "12",
                         "endOffsets": "55043"
-                    }
-                },
-                {
-                    "source": "/Users/yuhu/Documents/WWW/grampus-wallet/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "39",
-                        "endOffsets": "51"
-                    },
-                    "to": {
-                        "startLines": "605",
-                        "startColumns": "4",
-                        "startOffsets": "48619",
-                        "endColumns": "39",
-                        "endOffsets": "48654"
                     }
                 },
                 {
@@ -112,7 +93,7 @@
                     }
                 },
                 {
-                    "source": "/Users/yuhu/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/dfd7ac697c86595560afe68392cfa3f7/res/values/values.xml",
+                    "source": "/Users/yuhu/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/50f5fdf71822964587f7f84e7f2eb792/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,41,44,47,50,53,57,61,64,67,70,73,74,75,82,89,92,95,98,104",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -183,6 +164,25 @@
                         "endLines": "2,2190",
                         "endColumns": "60,12",
                         "endOffsets": "206,157748"
+                    }
+                },
+                {
+                    "source": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/node_modules/react-native-camera/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "724",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "1018"
+                    },
+                    "to": {
+                        "startLines": "2179",
+                        "startColumns": "4",
+                        "startOffsets": "157170",
+                        "endLines": "2185",
+                        "endColumns": "12",
+                        "endOffsets": "157464"
                     }
                 }
             ]

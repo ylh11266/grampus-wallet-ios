@@ -9,6 +9,7 @@
 import React, { Component } from 'react';
 import MyTab from './src/js/StackNavigator';
 
+
 // console.disableYellowBox = true // 关闭全部黄色警告
 
 type Props = {};

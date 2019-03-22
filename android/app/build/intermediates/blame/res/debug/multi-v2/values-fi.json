@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yuhu/Documents/WWW/grampus-wallet/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "outputFile": "/Users/yuhu/Documents/WWW/JingKuang/kmy-devel/grampus-wallet-ios/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "/Users/yuhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0a337f1f1289bbf7a5ca1a8ff4d632fc/res/values-fi/values.xml",
